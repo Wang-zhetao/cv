@@ -1,5 +1,5 @@
 { "scripts": {
-  "build":"parcel src/index.html --no-minify -url ./"
+  "build":"parcel build src/index.html --no-minify"
 },
   "name": "cv-2",
   "version": "1.0.0",
